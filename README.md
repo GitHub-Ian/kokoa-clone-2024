@@ -1,3 +1,3 @@
 # clone coding with Nomad Coders
 
-so excited!
+HTML + CSS = Something great
